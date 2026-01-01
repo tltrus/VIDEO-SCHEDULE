@@ -6,7 +6,7 @@ A simple **C# application** for running a video file at a specified time.
 
 Uses **WPF** with the **MVVM** pattern.
 
-Youtube:
+Youtube: https://youtu.be/WonhoY0z8QY
 
 Rutube: 
 
